@@ -1,5 +1,5 @@
 #include "turtle.h"
-#include "fractals.h"
+#include "fractal.h"
 
 #include <stdio.h>
 #include <stdlib.h>
