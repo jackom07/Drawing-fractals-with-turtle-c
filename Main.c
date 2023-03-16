@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include <SDL.h>
+#include <SDL2>
 
 #define winWid 800
 #define winHei 800
@@ -154,3 +154,13 @@ void saveImage(SDL_Window* window, SDL_Renderer* renderer)
 
     SDL_FreeSurface(image);
 }
+//            ___
+//　　　 　　／＞　　フ
+//　　　 　　| 　_　 _l
+//　 　　 　／` ミ＿xノ
+//　　 　 /　　　 　 |
+//　　　 /　 ヽ　　 ﾉ
+//　 　 │　　|　|　|
+//　／￣|　　 |　|　|
+//　| (￣ヽ＿_ヽ_)__)
+//　二つ 
