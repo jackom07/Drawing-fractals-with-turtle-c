@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#include <SDL2>
+#include <SDL.h>
 
 #define winWid 800
 #define winHei 800
@@ -139,7 +139,7 @@ int iterations()
 {
     int iterate;
 
-    scanf_s("%d", &iterate);
+    scanf("%d", &iterate);
 
     return iterate;
 

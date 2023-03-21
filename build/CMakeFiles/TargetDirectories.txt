@@ -1,0 +1,3 @@
+/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/build/CMakeFiles/rebuild_cache.dir
+/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/build/CMakeFiles/turtle_fractal_c.dir
+/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/build/CMakeFiles/edit_cache.dir

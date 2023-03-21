@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/gcc -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/SDL2 -g -o CMakeFiles/turtle_fractal_c.dir/src/Main.c.o -c /home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/src/Main.c",
+  "file": "/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/src/Main.c"
+},
+{
+  "directory": "/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/gcc -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/SDL2 -g -o CMakeFiles/turtle_fractal_c.dir/src/fractal.c.o -c /home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/src/fractal.c",
+  "file": "/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/src/fractal.c"
+},
+{
+  "directory": "/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/build",
+  "command": "/opt/rh/gcc-toolset-11/root/usr/bin/gcc -I../include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include -isystem /public/devel/2022/vcpkg/installed/x64-linux/include/SDL2 -g -o CMakeFiles/turtle_fractal_c.dir/src/turtle.c.o -c /home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/src/turtle.c",
+  "file": "/home/s5419119/Desktop/2023/turtle_fractal/turtle_fractal_c/src/turtle.c"
+}
+]

@@ -1,0 +1,6 @@
+# ninja log v5
+12	1235	1679405689	CMakeFiles/turtle_fractal_c.dir/src/fractal.c.o	9b539a7438954a4a
+11	1261	1679405689	CMakeFiles/turtle_fractal_c.dir/src/Main.c.o	9b43ae3f6a7b9ba1
+12	1267	1679405689	CMakeFiles/turtle_fractal_c.dir/src/turtle.c.o	fdec6a89cd475fd8
+7	332	1679405734	CMakeFiles/turtle_fractal_c.dir/src/Main.c.o	9b43ae3f6a7b9ba1
+332	1842	1679405735	turtle_fractal_c	728d2d77d0c92433
